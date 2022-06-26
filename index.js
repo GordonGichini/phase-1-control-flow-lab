@@ -3,7 +3,7 @@ if('ride <= 400feet')
  return 'This one is on me!'
 }
  // Write your code here!
-else if (ride > 2000 && <= 2500){
+ if (ride > 2000 &&  2500){
 console.log ('I will gladly take your 30 bucks.')
 }
 else if('ride >= 2500ft'){
@@ -29,4 +29,3 @@ function switchOnCharmFromTip(){
     return 'Thank you so ch'
   }
   // Write your code here!
-}
